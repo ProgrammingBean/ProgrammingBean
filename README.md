@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProgrammingBean
 - 👀 I’m interested in programming, skilled at HTML, CSS, JS, React
-- 🌱 I’m currently learning NextJS, Python (really close to finishing!)
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making projects, where I could play the frontend role
 - 📫 Reach me on my Discord, contact me on my id, delmox.coder
 - 😄 Pronouns: He/Him
